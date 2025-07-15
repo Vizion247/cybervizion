@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Secure Your Proton Mail - 2FA Setup Guide</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>🔐 Proton Mail 2FA Tutorial</h1>
+  </header>
+
+  <main class="main-content">
+    <section class="video-section">
+      <h2>Enable 2FA on Proton Mail with Proton Pass</h2>
+            <div class="form-container">
+        <label for="visitorName" style="display:none;">Name</label>
+        <input type="text" id="visitorName" placeholder="Enter your name to unlock video" oninput="toggleButton()">
+        <button id="logBtn" onclick="logVisitor()" disabled>Submit</button>
+        <p class="disclosure-text">By submitting, you agree to the collection of technical data for security purposes and analytics.</p>
+        <p id="thankYouMessage" style="display:none;">Thank you! Continue below to watch video</p>
+      </div>
+      <div class="video-wrapper">
+<video id="secureVideo" preload="none">
+  <source src="./assets/2Fasetups.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+      </div>
+      <p>Side note: The password used on Proton Pass HAS to be the same as your email login.</p>
+
+    </section>
+
+    <section class="best-practices">
+      <h2>🛡️ Best Practices with Proton Pass as an Authenticator</h2>
+      <ul>
+        <li>✅ Use Proton Pass across all your devices (it syncs securely)</li>
+        <li>🔐 Lock Proton Pass with biometrics or a strong master password</li>
+        <li>📝 Back up your Proton account and recovery codes in case you lose access</li>
+        <li>✅ Use Proton Pass to store both:
+          <ul>
+            <li>Your password</li>
+            <li>Your 2FA code (TOTP)</li>
+          </ul>
+        </li>
+        <li>This keeps everything in one secured vault</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Stay sharp, stay secure — good cyber hygiene starts with you.</p>
+  </footer>
+
+  <script src="./js/video-play.js"></script>
+</body>
+</html>
