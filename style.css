@@ -19,6 +19,13 @@ body {
   margin-bottom: 0.5rem;
 }
 
+.site-logo {
+  width: 150px; /* Adjust as needed */
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+
 .header-flex {
   display: flex;
   align-items: center;
