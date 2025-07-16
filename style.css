@@ -9,7 +9,7 @@ body {
 
 .site-header {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 1rem 1rem
   background: linear-gradient(to right, #003300, #001a00);
   box-shadow: 0 0 20px #00ff99;
 }
