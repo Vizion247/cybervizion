@@ -17,6 +17,11 @@ body {
   box-shadow: 0 0 20px #00ff99;
 }
 
+.site-logo {
+  max-height: 60px;
+  padding-right: 10px;
+}
+
 .site-header h1 {
   position: absolute;
   left: 50%;
@@ -25,11 +30,6 @@ body {
   margin: 0;
 }
 
-.site-logo {
-  margin-left: auto;
-  padding-right: 10px;
-  max-height: 60px;
-}
 
 
 
